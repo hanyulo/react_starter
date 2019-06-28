@@ -1,0 +1,24 @@
+{
+  "name": "react_starter",
+  "version": "1.0.0",
+  "description": "the is the react starter to help me accelerate development process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyulo/react_starter.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "Han",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyulo/react_starter/issues"
+  },
+  "homepage": "https://github.com/hanyulo/react_starter#readme"
+}
